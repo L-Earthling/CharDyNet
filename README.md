@@ -13,9 +13,12 @@
 <p align="center"> 
 
   <div align="center">
-
-   [![Download CharDyNet Networks CSV](https://img.shields.io/badge/Download-CharDyNet__Sparknotes__all__networks.csv-blue)]([PASTE-YOUR-RAW-CSV-URL-HERE](https://raw.githubusercontent.com/L-Earthling/CharDyNet/refs/heads/main/dataset/CharDyNet_Sparknotes_all_networks.csv))
-
+    <a href="https://raw.githubusercontent.com/L-Earthling/CharDyNet/refs/heads/main/dataset/CharDyNet_Sparknotes_all_networks.csv">
+      <img
+        alt="Download CharDyNet-sn"
+        src="https://img.shields.io/badge/Download%20CSV-CharDyNet__Sparknotes__all__networks-blue?style=for-the-badge"
+      >
+    </a>
   </div> 
 
 </p> 
@@ -148,7 +151,7 @@ Each processed book includes:
 
 <p align="center"> 
 
-  <img src="figures/temporal_9panel_example.png" alt="Per-book nine-panel analysis" width="900"><br> 
+  <img src="figures/temporal_9panel_example.png" alt="Per-book nine-panel analysis" width="720"><br> 
 
   <em>Nine-panel temporal summary: balance, density, centralities, and more</em> 
 
@@ -168,7 +171,7 @@ Each processed book includes:
 
 <p align="center"> 
 
-  <img src="figures/CharDyNet_dyad_stability_topK15_example.png" alt="stability of key relationships" width="720"><br> 
+  <img src="figures/CharDyNet_dyad_stability_topk15_example.png" alt="Stability of key relationships" width="720"><br> 
 
   <em>Top-15 dyad stability across the narrative</em> 
 
