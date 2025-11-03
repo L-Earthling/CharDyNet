@@ -12,11 +12,11 @@
 
 <p align="center"> 
 
-  <a href="https://raw.githubusercontent.com/<YOURUSER>/CharDyNet/main/dataset/CharDyNet_Sparknotes_all_networks.csv"> 
+  <div align="center">
 
-    <img alt="Download CharDyNet Networks CSV" src="https://img.shields.io/badge/Download-CharDyNet__Sparknotes__all__networks.csv-blue"> 
+   [![Download CharDyNet Networks CSV](https://img.shields.io/badge/Download-CharDyNet__Sparknotes__all__networks.csv-blue)]([PASTE-YOUR-RAW-CSV-URL-HERE](https://raw.githubusercontent.com/L-Earthling/CharDyNet/refs/heads/main/dataset/CharDyNet_Sparknotes_all_networks.csv))
 
-  </a> 
+  </div> 
 
 </p> 
 
@@ -148,7 +148,7 @@ Each processed book includes:
 
 <p align="center"> 
 
-  <img src="figures/CharDyNet_temporal_9panel_example.png" alt="Per-book nine-panel analysis" width="900"><br> 
+  <img src="figures/temporal_9panel_example.png" alt="Per-book nine-panel analysis" width="900"><br> 
 
   <em>Nine-panel temporal summary: balance, density, centralities, and more</em> 
 
