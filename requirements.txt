@@ -1,0 +1,18 @@
+# Core data/analysis
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+
+# Graphs & metrics
+networkx>=3.2
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# Crawling 
+crawl4ai>=0.4
+playwright>=1.48
+
+# QoL
+tqdm>=4.66
