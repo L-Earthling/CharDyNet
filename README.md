@@ -15,8 +15,8 @@
   <div align="center">
     <a href="https://raw.githubusercontent.com/L-Earthling/CharDyNet/refs/heads/main/dataset/CharDyNet_Sparknotes_all_networks.csv">
       <img
-        alt="Download CharDyNet-sn"
-        src="https://img.shields.io/badge/Download%20CSV-CharDyNet__Sparknotes__all__networks-blue?style=for-the-badge"
+        alt="Download CharDyNet-v1"
+        src="https://img.shields.io/badge/Download-CharDyNet__prototype__all__networks-blue?style=for-the-badge"
       >
     </a>
   </div> 
