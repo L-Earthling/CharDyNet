@@ -87,7 +87,7 @@ Explore the **CharDyNet-SN sandbox** to see analysis and chapter-by-chapter visu
 
 ## 🔬 Pipeline Overview 
 
-1. **Text Segmentation** – parse chapters/partitions (SparkNotes/Gutenberg or custom). 
+1. **Text Segmentation** – parse chapters/partitions. 
 
 2. **Character Extraction** – identify entities and unify aliases (e.g., “Aragorn” → “Strider”). 
 
